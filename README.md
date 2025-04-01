@@ -16,3 +16,4 @@ How it works:
 - ✅ Reset Button: Restores automatic DNS settings.
 - ✅ Better Layout: Uses grid() for a cleaner design.
 - ✅ Auto Admin Request: The script asks for admin rights if needed.
+### Download From assets in relese page [Here](https://github.com/Romeo352/Dns-Changer-for-windows-10-11/releases)
